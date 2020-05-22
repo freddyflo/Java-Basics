@@ -1,0 +1,17 @@
+/src/Arrays
+/src/Classes
+/src/Concurrency
+/src/LeetCode
+/src/Exceptions
+/src/FilesStreams
+/src/Inheritance
+/src/JUnit5Demo
+/src/JUnitTesting
+/src/LambdaStreams
+.kotlin_module
+.idea
+JUnitTests
+*.ser
+*.txt
+*.iml
+*.class
